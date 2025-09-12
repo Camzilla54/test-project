@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+
+# CMake / Ninja
+build/
+Build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+*.ninja
+.ninja_deps
+.ninja_log
+
+# C++ binaries
+cpp_hello
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+*.sln.docstates
