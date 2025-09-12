@@ -1,0 +1,14 @@
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/bin/Debug/net9.0/HelloDotnet
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/bin/Debug/net9.0/HelloDotnet.deps.json
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/bin/Debug/net9.0/HelloDotnet.runtimeconfig.json
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/bin/Debug/net9.0/HelloDotnet.dll
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/bin/Debug/net9.0/HelloDotnet.pdb
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/HelloDotnet.AssemblyInfoInputs.cache
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/HelloDotnet.AssemblyInfo.cs
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/HelloDotnet.csproj.CoreCompileInputs.cache
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/HelloDotnet.dll
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/refint/HelloDotnet.dll
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/HelloDotnet.pdb
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/HelloDotnet.genruntimeconfig.cache
+/Users/cameronhouston/Documents/Test Project/HelloDotnet/obj/Debug/net9.0/ref/HelloDotnet.dll

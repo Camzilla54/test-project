@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/cameronhouston/Documents/Test Project/Build",
+  "command": "/usr/bin/clang++ -g -arch arm64 -o CMakeFiles/cpp_hello.dir/main.cpp.o -c \"/Users/cameronhouston/Documents/Test Project/main.cpp\"",
+  "file": "/Users/cameronhouston/Documents/Test Project/main.cpp",
+  "output": "/Users/cameronhouston/Documents/Test Project/Build/CMakeFiles/cpp_hello.dir/main.cpp.o"
+}
+]
